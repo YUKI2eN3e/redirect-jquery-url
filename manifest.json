@@ -1,6 +1,6 @@
 {
 	"name": "Redirect jquery URL",
-	"description": "Redirect calls to load jqery from code.jquery.com to cdnjs.cloudflare.com",
+	"description": "Redirect calls to load jquery from code.jquery.com to cdnjs.cloudflare.com",
 	"version": "1.0",
 	"manifest_version": 2,
 	"background": {"scripts":["background.js"]},
